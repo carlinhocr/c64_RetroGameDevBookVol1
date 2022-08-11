@@ -1,0 +1,9 @@
+##{0:0:0:Main.prg}\\Mac\Home\Documents\Programming\Commodore64\RetroGameDevBookVol1\Main.asm
+
+; 10 SYS (2048)
+
+*=$0801
+        lda #4
+        ldx #5
+        ldy #6
+
